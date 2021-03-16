@@ -1,6 +1,12 @@
-public class Index {
-    public static void main (String[] args)
-    {
-        System.out.println("Jon");
+import javax.swing.*;
+
+class Index{
+
+    public static void main(String args[]){
+        new testform();
+
+
+
+
     }
 }
